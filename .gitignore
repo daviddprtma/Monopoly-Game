@@ -1,0 +1,13 @@
+.vscode
+
+#Testing Folders and Files
+test.*
+.Testing
+Testing
+
+# Object files
+*.o
+
+# Executables
+*.exe
+*.out
