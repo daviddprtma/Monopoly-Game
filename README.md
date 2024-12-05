@@ -53,4 +53,8 @@ NOTES: Before running the program, make sure command prompt is maximised and in 
  Removes all .o and .exe files created during make `all`.
 
 # Demo Project
+FOr the video demo project, you can see it in here: 
 
+<br> 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/l5Y_0AHBQ8g/0.jpg)](https://www.youtube.com/watch?v=l5Y_0AHBQ8g)
