@@ -18,7 +18,7 @@ int SelectGamemode()
         printf("\n\n\n\n\n");
         printf("\n\tChoose a game mode:");
         printf("\n\t  1-Net Worth : First player to reach a certain amount wins");
-        printf("\n\t  2-Turns     : Game ends after ceratin number of turns/rounds are over");
+        printf("\n\t  2-Turns     : Game ends after certain number of turns/rounds are over");
         printf("\n\t  3-Endless   : Game goes on untill everyone except one player gets bankrupt");
         printf("\n\t  X-Exit\n\n");
         choice = getch();
