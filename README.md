@@ -53,7 +53,7 @@ NOTES: Before running the program, make sure command prompt is maximised and in 
  Removes all .o and .exe files created during make `all`.
 
 # Demo Project
-FOr the video demo project, you can see it in here: 
+For the video demo project, you can see it in here: 
 
 <br> 
 
