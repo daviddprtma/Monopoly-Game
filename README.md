@@ -1,7 +1,7 @@
 
 ![Monopoly Game](https://github.com/daviddprtma/Monopoly-Game/blob/bbb2476027c3debbef97e7f43b9a49c5231419b0/monopoly_game.png)
 
-# Monopoly Game
+# Top Merit Prize Winner - Monopoly Game
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -58,3 +58,6 @@ For the video demo project, you can see it in here:
 <br> 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/l5Y_0AHBQ8g/0.jpg)](https://www.youtube.com/watch?v=l5Y_0AHBQ8g)
+
+# List Of December Winner Hackathon
+![December Winner](https://github.com/daviddprtma/Monopoly-Game/blob/fb294add450c8b65be1d2b410eb675c714dd8244/stackup%20december%20hackathon%20winner.png)
